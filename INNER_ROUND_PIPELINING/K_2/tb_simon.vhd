@@ -1,0 +1,11 @@
+-- SIMON 64/128
+-- Encryption & decryption test bench
+--
+-- @Author: Jos Wetzels
+-- @Author: Wouter Bokslag
+--
+--
+
+--
+-- Due to project deadline constraints a proper testbench could not be implemented
+-- and is left to future work.
